@@ -61,5 +61,5 @@ console.log("Current time:", currentTime);
 
 console.log(contractAddress); */
 block();
-const intervalTime = 10 * 60 * 1000; // 10 minutes in milliseconds
+const intervalTime = 1 * 60 * 1000; // 1 minutes in milliseconds
 setInterval(caller, intervalTime); // Call closeRound every 10 minutes
