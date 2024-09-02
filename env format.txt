@@ -1,0 +1,4 @@
+WALLET =""
+CONTRACT_ADDRESS=""
+WALLET_KEY=""
+HTTP_RPC="https://mainnet-rpc.kbcfoundation.com"
